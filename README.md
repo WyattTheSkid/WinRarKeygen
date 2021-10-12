@@ -1,7 +1,7 @@
 ##WinRar Keygen
 
 
-Download release (Exe) : <a href="https://cdn.discordapp.com/attachments/793836493591674911/854459147181490216/release.zip"> HERE! </a>
+Download release (Exe) : <a href="https://github.com/dqvist12/WinRarKeygen/tree/master/bin/x64/Release"> HERE! </a>
 
 
 ### UPDATES :
