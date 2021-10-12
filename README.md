@@ -7,7 +7,7 @@ Download release (Exe) : <a href="https://github.com/dqvist12/WinRarKeygen/tree/
 ### UPDATES :
 
 ##### Coming soon . . .
-![Build status](https://ci.appveyor.com/api/projects/status/00vic6jliar6j0ol/branch/master?svg=true)
+#![Build status](https://ci.appveyor.com/api/projects/status/00vic6jliar6j0ol/branch/master?svg=true)
  ![alt text](https://cdn.discordapp.com/attachments/793836493591674911/897605198451707945/keysda.PNG)
 
  ![alt text](https://cdn.discordapp.com/attachments/793836493591674911/897605355243188224/Skarmklipdasadsadsp.PNG)
